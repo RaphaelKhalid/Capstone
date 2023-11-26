@@ -1,1 +1,1 @@
-TODO
+This first code iteration provides a working implementation of an aerial slum instance segmenter. The Mask-RCNN code has been adapted to allow for running code.
