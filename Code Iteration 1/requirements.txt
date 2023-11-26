@@ -1,0 +1,20 @@
+# Installations
+pip==21.3.1
+numpy==1.23.2
+h5py==2.10.0
+scipy==1.5.4
+scikit-image==0.17.2
+matplotlib==3.3.0
+tensorflow==2.3.1
+keras==2.4.3
+imgaug==0.4.0
+ipython==7.22.0
+
+# Uninstallations
+-numpy
+-scipy
+-scikit-image
+-matplotlib
+-tensorflow
+-keras
+-mrcnn
